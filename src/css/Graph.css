@@ -1,0 +1,30 @@
+.export-btn {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 7% ;
+  }
+  
+  .export-btn:hover {
+    background-color: #ff8c00;
+  }
+  
+
+  .back-btn {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 2% ;
+  }
+  
+  .back-btn:hover {
+    background-color: #ff8c00;
+  }
