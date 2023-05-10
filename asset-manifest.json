@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend_with_plot_of_a_histogram/static/css/main.c732e5f1.css",
+    "main.js": "/frontend_with_plot_of_a_histogram/static/js/main.b6c0974f.js",
+    "index.html": "/frontend_with_plot_of_a_histogram/index.html",
+    "main.c732e5f1.css.map": "/frontend_with_plot_of_a_histogram/static/css/main.c732e5f1.css.map",
+    "main.b6c0974f.js.map": "/frontend_with_plot_of_a_histogram/static/js/main.b6c0974f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c732e5f1.css",
+    "static/js/main.b6c0974f.js"
+  ]
+}
